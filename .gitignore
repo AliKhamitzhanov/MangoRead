@@ -1,0 +1,11 @@
+venv
+.idea
+pycache/
+*.py[cod]
+*.so
+db.sqlite3
+static
+media
+users/migrations/00*.py
+manga/migrations/00*.py
+.env
